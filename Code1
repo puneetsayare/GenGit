@@ -1,3 +1,2 @@
-ls
-cd
-uptime
+grep
+ls -lrt
